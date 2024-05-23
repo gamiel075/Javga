@@ -1,3 +1,4 @@
+package segundo;
 public class segundo2 {
     int ID;
     String nomeTitular;

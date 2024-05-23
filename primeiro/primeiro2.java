@@ -1,3 +1,4 @@
+package primeiro;
 public class primeiro2 {
 
     String nome;

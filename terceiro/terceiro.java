@@ -1,3 +1,4 @@
+package terceiro;
 import java.util.Scanner;
 
 public class terceiro {
